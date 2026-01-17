@@ -15,7 +15,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,Django" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,Django SQL,MYSQL" />
 </p>
 
 ---
@@ -23,11 +23,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahuljamod&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RahulJamod28&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahuljamod" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulJamod28" />
 </p>
 
 ---
@@ -35,7 +35,7 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/rahuljamod">
+  <a href="https://github.com/RahulJamod28">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
   </a>
 </p>
