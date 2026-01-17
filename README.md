@@ -11,12 +11,13 @@
 - 📍 From: *India*
 
 ---
-- **## 💬 Ask me about**
+- ** 💬 Ask me about**
  
 - Programming in C/C++, Python,SQL,
 - Frontend Development (HTML, CSS, JavaScript),
 - Database (MySQL,MongoDB)
-- 
+
+---
 ## 🛠️ Languages & Tools
 
 <p align="center">
