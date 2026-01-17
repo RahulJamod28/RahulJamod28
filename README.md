@@ -15,19 +15,14 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,Django SQL,MYSQL" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,Django" />
 </p>
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahulJamod28&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulJamod28" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RahulJamod28&show_icons=true&include_all_commits=true&count_private=true" />
 </p>
 
 ---
