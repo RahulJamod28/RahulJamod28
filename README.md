@@ -11,18 +11,16 @@
 - 📍 From: *India*
 
 ---
-
+- **## 💬 Ask me about**
+ 
+- Programming in C/C++, Python,SQL,
+- Frontend Development (HTML, CSS, JavaScript),
+- Database (MySQL,MongoDB)
+- 
 ## 🛠️ Languages & Tools
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,python,Django" />
-</p>
-
----
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahulJamod28&show_icons=true&include_all_commits=true&count_private=true" />
 </p>
 
 ---
