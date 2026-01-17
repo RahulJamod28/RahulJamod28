@@ -15,7 +15,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python," />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,Django" />
 </p>
 
 ---
@@ -23,19 +23,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahuljamod&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rahuljamod&show_icons=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahuljamod&theme=dark" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahuljamod&theme=github-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahuljamod" />
 </p>
 
 ---
