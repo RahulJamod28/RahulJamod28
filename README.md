@@ -17,6 +17,7 @@
 - Programming: **C/C++, Python, SQL**  
 - Frontend Development: **HTML, CSS, JavaScript**  
 - Database: **MySQL, MongoDB**
+- Framework: **Django, ReactJS**
 
 ---
 
