@@ -23,7 +23,7 @@
 ## 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,ReactJS" />
 </p>
 
 ---
