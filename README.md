@@ -1,5 +1,13 @@
-<h1 align="center">Hi 👋, I'm Rahul Jamod</h1>
+var typed = new Typed("#element", {
+  strings: [
+    "
+<h1 align="center">Hi 👋, I'm Rahul Jamod</h1>",
 <h3 align="center">A Passionate Web Developer from India</h3>
+  ],
+  typeSpeed: 80,
+  backSpeed: 40,
+  loop: true
+});
 
 ---
 
