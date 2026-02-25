@@ -1,14 +1,11 @@
-var typed = new Typed("#element", {
-  strings: [
-    "
-<h1 align="center">Hi 👋, I'm Rahul Jamod</h1>",
+<h1 align="center">Hi 👋, I'm Rahul Jamod</h1>
 <h3 align="center">A Passionate Web Developer from India</h3>
-  ],
-  typeSpeed: 80,
-  backSpeed: 40,
-  loop: true
-});
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Rahul+Jamod;A+Passionate+Web+Developer+from+India;Frontend+Developer;React+Enthusiast" />
+  </a>
+</p>
 ---
 
 ## 🙋‍♂️ About Me
