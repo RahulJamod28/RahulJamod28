@@ -1,6 +1,9 @@
+<h1 style="text-align:center;">Hi, My Name Is Rahul Jamod</h1>
+<h1 style="text-align:center;">I am a FullStack Developer</h1>
+
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Rahul+Jamod;A+Passionate+Web+Developer+from+India;FullStack+Developer;React+Enthusiast" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Rahul+Jamod;A+Passionate+Web+Developer+from+India;I+am+a+Full+Stack+Developer;React+Enthusiast" />
   </a>
 </p>
 
