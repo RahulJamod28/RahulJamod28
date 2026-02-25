@@ -1,5 +1,9 @@
-<h1 style="text-align:center;">Hi, My Name Is Rahul Jamod</h1>
-<h1 style="text-align:center;">I am a FullStack Developer</h1>
+<div align="center">
+
+<h1>Hi, My Name Is Rahul Jamod</h1>
+<h1>I am a FullStack Developer</h1>
+
+</div>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
