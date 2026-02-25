@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Rahul+Jamod;A+Passionate+Web+Developer+from+India;I+am+a+Full+Stack+Developer;React+Enthusiast" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Rahul+Jamod;A+Passionate+Web+Developer+from+India;I+am+a+FullStack+Developer;Django+&+ReactJS+Enthusiast" />
   </a>
 </p>
 
