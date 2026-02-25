@@ -1,10 +1,14 @@
 <div align="center">
 
-<h1>Hi, I'm Rahul Jamod</h1>
-<h1>I am a FullStack Developer</h1>
+<h1>
+  <font color="#ff5733">Hi, I'm Rahul Jamod</font>
+</h1>
+
+<h1>
+  <font color="#00bcd4">I am a FullStack Developer</font>
+</h1>
 
 </div>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?size=25&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Rahul+Jamod;A+Passionate+Web+Developer+from+India;I+am+a+FullStack+Developer;Django+&+ReactJS+Enthusiast" />
