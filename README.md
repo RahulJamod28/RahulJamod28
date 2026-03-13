@@ -17,7 +17,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Python & Django**
+- 🌱 I’m currently learning **Python & Django**,**DSA**
 - 💻 Interested in **Web Development**
 - 🎯 Goal: **Become a Software Developer**
 - 📍 From: **India**
