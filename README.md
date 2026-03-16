@@ -17,7 +17,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Python & Django** , **DSA** , **DBMS** , **Linux**
+- 🌱 I’m currently learning **Python & Django** , **ReactJS** , **DSA** , **DBMS** , **Linux**
 - 💻 Interested in **Web Development**
 - 🎯 Goal: **Become a Software Developer**
 - 📍 From: **India**
