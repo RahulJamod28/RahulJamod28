@@ -1,6 +1,6 @@
 <div align="center">
 <h1>
-  <font color="#ff6b6b"><i>Hi 👋, I'm Rahul Jamod</i></font>
+  <font color="#ff6458"><i>Hi 👋, I'm Rahul Jamod</i></font>
 </h1>
 <h2>
   <font color="#4ecdc4"><i>🚀 FullStack Developer</i></font>
