@@ -41,7 +41,7 @@
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
 <p align="center">
   <a href="https://github.com/RahulJamod28" target="_blank">
